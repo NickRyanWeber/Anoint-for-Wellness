@@ -5,8 +5,8 @@ This guide will help you update the placeholder content in the website with your
 ## Quick Start
 
 1. Open `index.html` in a text editor
-2. Search for `TODO:` comments - these mark all the places that need updating
-3. Replace the placeholder text with your actual content
+2. Update any sections that need to be changed
+3. Replace placeholder text with your actual content
 4. Save the file and commit your changes
 
 ## Sections to Update
@@ -63,8 +63,10 @@ community wellness, and mental health support.
 
 **Location:** Line ~77 in `index.html`
 
-**What to update:**
-- Replace `contact@anointforwellness.com` with your actual email
+**Current email:** `hello@anointforwellness.com`
+
+**What to update (if needed):**
+- Replace with a different email if desired
 - Update it in TWO places:
   1. The `href="mailto:..."` attribute
   2. The visible text between the `<a>` tags

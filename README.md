@@ -41,14 +41,14 @@ To change colors, fonts, or layout:
 
 ## Social Media Links
 
-Currently, the social media links are placeholders. Update them in `index.html`:
-- Instagram: Line with `https://instagram.com/anointforwellness`
-- Facebook: Line with `https://facebook.com/anointforwellness`
-- LinkedIn: Line with `https://linkedin.com/in/anointforwellness`
+Social media links are configured in `index.html`:
+- Instagram: `https://www.instagram.com/anointforwellness`
+- Facebook: `https://www.facebook.com/anointforwellness`
+- LinkedIn: `https://www.linkedin.com/company/anoint-for-wellness`
 
 ## Email Contact
 
-Update the email address in the contact section from `contact@anointforwellness.com` to the actual email address.
+The contact email is set to `hello@anointforwellness.com`. Update this in `index.html` if needed.
 
 ## Technical Details
 
